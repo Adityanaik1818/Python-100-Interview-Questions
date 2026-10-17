@@ -1,24 +1,24 @@
 <div align="center">
 
-<!-- ULTRA-PREMIUM SYNTHWAVE HERO SECTION: DARK VIOLET & NEON CYAN -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,100:00E5FF&height=380&section=header&text=P%20Y%20T%20H%20O%20N%20%20❖%20%20N%20E%20X%20U%20S&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20100-QUESTION%20INTERVIEW%20CODEX&descAlignY=62&descAlign=50" width="100%" />
+<!-- ULTRA-PREMIUM EXECUTIVE HERO SECTION: MIDNIGHT ABYSS & ELECTRIC GOLD -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:FFD700&height=380&section=header&text=P%20Y%20T%20H%20O%20N%20%20❖%20%20E%20X%20E%20C%20U%20T%20I%20V%20E&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20100-QUESTION%20INTERVIEW%20CODEX&descAlignY=62&descAlign=50" width="100%" />
 
 <!-- ADVANCED TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Bypass+the+HR+Filters;+Prove+Your+Seniority;►+100+High-Probability+Technical+Challenges;►+Master+OOP,+Django,+Scraping,+%26+Data+Science;►+Engineered+for+Tier-1+Engineering+Interviews&center=true&width=800&height=70&color=FF007F&vCenter=true&size=22&font=Rajdhani&weight=600" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Bypass+the+HR+Filters;+Prove+Your+Seniority;►+100+High-Probability+Technical+Challenges;►+Master+OOP,+Django,+Scraping,+%26+Data+Science;►+Engineered+for+Tier-1+Engineering+Interviews&center=true&width=800&height=70&color=FFD700&vCenter=true&size=22&font=Rajdhani&weight=600" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTHOR-Edureka-1A0B2E?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Author">
-  <img src="https://img.shields.io/badge/PAYLOAD-100_Elite_Questions-1A0B2E?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Content">
-  <img src="https://img.shields.io/badge/TARGET-Tier--1_Interviews-1A0B2E?style=for-the-badge&logo=target&logoColor=00E5FF" alt="Target">
-  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-00E5FF?style=for-the-badge&logo=rocket&logoColor=1A0B2E" alt="Status">
+  <img src="https://img.shields.io/badge/AUTHOR-Edureka-0A192F?style=for-the-badge&logo=github&logoColor=FFD700" alt="Author">
+  <img src="https://img.shields.io/badge/PAYLOAD-100_Elite_Questions-0A192F?style=for-the-badge&logo=python&logoColor=FFD700" alt="Content">
+  <img src="https://img.shields.io/badge/TARGET-Tier--1_Interviews-0A192F?style=for-the-badge&logo=target&logoColor=FFD700" alt="Target">
+  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-FFD700?style=for-the-badge&logo=rocket&logoColor=0A192F" alt="Status">
 </p>
 
 <br>
 
 <a href="./100%20python%20interview%20questions%20%20.pdf">
-  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-1A0B2E?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF007F" alt="Read PDF" width="650">
+  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-0A192F?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD700" alt="Read PDF" width="650">
 </a>
 
 <br><br>
@@ -42,7 +42,7 @@
 <div align="center">
 
 <details>
-  <summary><b><img src="https://img.icons8.com/nolan/64/00E5FF/python.png" width="24"/> <kbd>MOD-01</kbd> CORE PYTHON & MEMORY ARCHITECTURE</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/FFD700/python.png" width="24"/> <kbd>MOD-01</kbd> CORE PYTHON & MEMORY ARCHITECTURE</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/nolan/64/00E5FF/hierarchy.png" width="24"/> <kbd>MOD-02</kbd> OOPS & MULTITHREADING DYNAMICS</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/FFD700/hierarchy.png" width="24"/> <kbd>MOD-02</kbd> OOPS & MULTITHREADING DYNAMICS</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -86,7 +86,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/nolan/64/00E5FF/django.png" width="24"/> <kbd>MOD-03</kbd> WEB FRAMEWORKS & SCRAPING</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/FFD700/django.png" width="24"/> <kbd>MOD-03</kbd> WEB FRAMEWORKS & SCRAPING</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -108,7 +108,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/nolan/64/00E5FF/bar-chart.png" width="24"/> <kbd>MOD-04</kbd> DATA ANALYSIS & ALGORITHMS</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/FFD700/bar-chart.png" width="24"/> <kbd>MOD-04</kbd> DATA ANALYSIS & ALGORITHMS</b></summary>
   <blockquote>
   <table width="100%">
     <tr>
@@ -145,11 +145,11 @@
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/ROLE-Backend_Software_Engineer-1A0B2E?style=for-the-badge&logoColor=00E5FF" /> 
-<img src="https://img.shields.io/badge/ROLE-Data_Scientist-1A0B2E?style=for-the-badge&logoColor=00E5FF" /> 
-<img src="https://img.shields.io/badge/ROLE-Full_Stack_Developer-1A0B2E?style=for-the-badge&logoColor=00E5FF" /><br><br>
-<img src="https://img.shields.io/badge/ROLE-Machine_Learning_Engineer-1A0B2E?style=for-the-badge&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/ROLE-Python_Automation_Architect-1A0B2E?style=for-the-badge&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/ROLE-Backend_Software_Engineer-0A192F?style=for-the-badge&logoColor=FFD700" /> 
+<img src="https://img.shields.io/badge/ROLE-Data_Scientist-0A192F?style=for-the-badge&logoColor=FFD700" /> 
+<img src="https://img.shields.io/badge/ROLE-Full_Stack_Developer-0A192F?style=for-the-badge&logoColor=FFD700" /><br><br>
+<img src="https://img.shields.io/badge/ROLE-Machine_Learning_Engineer-0A192F?style=for-the-badge&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/ROLE-Python_Automation_Architect-0A192F?style=for-the-badge&logoColor=FFD700" />
 
 </div>
 
@@ -169,25 +169,25 @@
   <tr>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/nolan/96/00E5FF/vision.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/FFD700/vision.png" width="60"/><br>
       <b>01. INGEST</b><br>
       <code>Parse Architecture</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/nolan/96/00E5FF/source-code.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/FFD700/source-code.png" width="60"/><br>
       <b>02. COMPILE</b><br>
       <code>Identify Constraints</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/nolan/96/00E5FF/process.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/FFD700/process.png" width="60"/><br>
       <b>03. DEBUG</b><br>
       <code>Dry-Run Mentally</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/nolan/96/FF007F/approval.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/FFD700/approval.png" width="60"/><br>
       <b>04. EXECUTE</b><br>
       <code>Output Precision</code>
     </td>
@@ -204,9 +204,12 @@
 
 <!-- Executive Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:1A0B2E&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:0A192F&height=120&section=footer" width="100%" />
   <br>
   <code>&lt; Analyze /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Optimize /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Execute /&gt;</code>
   <br><br>
   <b>Master the Language. Clear the Interview.</b><br>
 </div>
+<FollowUp>
+Is there a specific Python framework or library from the codex that you would like to review in depth next?
+</FollowUp>
