@@ -1,29 +1,29 @@
 <div align="center">
 
-<!-- ULTRA-PREMIUM HOLOGRAPHIC HERO SECTION: ABYSS & PYTHON GOLD -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FFD43B&height=360&section=header&text=P%20Y%20T%20H%20O%20N%20%20❖%20%20U%20N%20L%20O%20C%20K%20E%20D&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20ULTIMATE%20100-QUESTION%20INTERVIEW%20CODEX&descAlignY=60&descAlign=50" width="100%" />
+<!-- ULTRA-PREMIUM CYBER-MATRIX HERO SECTION: DEEP ABYSS & ELECTRIC EMERALD -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:00FFAA&height=380&section=header&text=P%20Y%20T%20H%20O%20N%20%20❖%20%20A%20R%20C%20H%20I%20T%20E%20C%20T&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20100-QUESTION%20INTERVIEW%20CODEX&descAlignY=62&descAlign=50" width="100%" />
 
-<!-- DYNAMIC HACKER-STYLE TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Bypass+the+HR+Filter;+Prove+Your+Seniority;►+100+High-Probability+Technical+Challenges;►+Master+OOP,+Django,+Scraping,+%26+Data+Science;►+Engineered+for+Tier-1+Engineering+Interviews&center=true&width=800&height=70&color=FFD43B&vCenter=true&size=21&font=Fira+Code&weight=600" />
+<!-- ADVANCED TYPING ANIMATION (RAJDHANI FONT FOR SLEEK TECH VIBE) -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Bypass+the+HR+Filters;+Prove+Your+Engineering+Seniority;►+100+High-Probability+Technical+Challenges;►+Master+OOP,+Django,+Scraping,+%26+Data+Science;►+Engineered+for+Tier-1+Software+Interviews&center=true&width=800&height=70&color=00FFAA&vCenter=true&size=22&font=Rajdhani&weight=600" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTHOR-Edureka-0D1117?style=for-the-badge&logo=github&logoColor=FFD43B" alt="Author">
-  <img src="https://img.shields.io/badge/PAYLOAD-100_Elite_Questions-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Content">
-  <img src="https://img.shields.io/badge/TARGET-Tier--1_Interviews-0D1117?style=for-the-badge&logo=target&logoColor=FFD43B" alt="Target">
-  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-FFD43B?style=for-the-badge&logo=rocket&logoColor=0D1117" alt="Status">
+  <img src="https://img.shields.io/badge/AUTHOR-Edureka-020617?style=for-the-badge&logo=github&logoColor=00FFAA" alt="Author">
+  <img src="https://img.shields.io/badge/PAYLOAD-100_Elite_Questions-020617?style=for-the-badge&logo=python&logoColor=00FFAA" alt="Content">
+  <img src="https://img.shields.io/badge/TARGET-Tier--1_Interviews-020617?style=for-the-badge&logo=target&logoColor=00FFAA" alt="Target">
+  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-00FFAA?style=for-the-badge&logo=rocket&logoColor=020617" alt="Status">
 </p>
 
 <br>
 
 <a href="./100%20python%20interview%20questions%20%20.pdf">
-  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD43B" alt="Read PDF" width="650">
+  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-020617?style=for-the-badge&logo=adobeacrobatreader&logoColor=00FFAA" alt="Read PDF" width="650">
 </a>
 
 <br><br>
 
-> ⚠️ **CLASSIFIED DIRECTIVE:** *Superficial syntax knowledge fails in Tier-1 technical interviews. This repository houses a highly-curated codex of 100 Python interview questions designed to test deep architectural understanding[cite: 589]. Master concepts ranging from bypassing the Global Interpreter Lock (GIL)[cite: 594] to deploying Django MVT architectures[cite: 596].*
+> ⚠️ **CLASSIFIED DIRECTIVE:** *Superficial syntax knowledge shatters under the pressure of a Tier-1 technical interview. This repository houses a tactical, highly-curated codex of 100 Python interview questions designed to stress-test deep architectural understanding. From bypassing the Global Interpreter Lock (GIL) to deploying Django MVT architectures, this payload guarantees absolute readiness for elite engineering roles.*
 
 </div>
 
@@ -35,94 +35,98 @@
 
 <h2 align="center">✦ 𝗧 𝗛 𝗘 &nbsp; 𝗜 𝗡 𝗧 𝗘 𝗥 𝗔 𝗖 𝗧 𝗜 𝗩 𝗘 &nbsp; 𝗦 𝗬 𝗟 𝗟 𝗔 𝗕 𝗨 𝗦 ✦</h2>
 
-<p align="center"><i>A high-density, interactive breakdown of the computational domains. Click to expand modules.</i></p>
+<p align="center"><i>A high-density, terminal-inspired breakdown of the computational domains. Click to expand modules.</i></p>
 
 <br>
 
 <div align="center">
 
 <details>
-  <summary><b><img src="https://img.icons8.com/nolan/64/FFD43B/python.png" width="24"/> <kbd>MOD-01</kbd> CORE PYTHON & MEMORY ARCHITECTURE</b></summary>
-  <br>
-  <table width="95%">
+  <summary><b><img src="https://img.icons8.com/nolan/64/00FFAA/python.png" width="24"/> <kbd>MOD-01</kbd> CORE PYTHON & MEMORY ARCHITECTURE</b></summary>
+  <blockquote>
+  <table width="100%">
     <tr>
       <td width="50%" valign="top">
         <ul>
-          <li><b>Data Structures:</b> Mutability of Lists vs. Tuples, and Dictionary key-value mapping[cite: 589, 592].</li>
-          <li><b>Memory Allocation:</b> Python private heap space and built-in garbage collection mechanisms[cite: 590].</li>
+          <li><b>Data Structures:</b> Mutability constraints of Lists vs. Tuples, and Dictionary mapping.</li>
+          <li><b>Memory Allocation:</b> Python's private heap space & built-in garbage collection.</li>
         </ul>
       </td>
       <td width="50%" valign="top">
         <ul>
-          <li><b>Execution Logic:</b> Anonymous lambda functions, generators yielding iterables, and iterators[cite: 591].</li>
-          <li><b>Optimizations:</b> <code>xrange()</code> object generation vs <code>range()</code> static list memory footprints[cite: 591].</li>
+          <li><b>Execution Logic:</b> Anonymous lambda functions, generators, and iterators.</li>
+          <li><b>Optimizations:</b> <code>xrange()</code> yield generation vs <code>range()</code> static memory footprints.</li>
         </ul>
       </td>
     </tr>
   </table>
+  </blockquote>
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/nolan/64/FFD43B/hierarchy.png" width="24"/> <kbd>MOD-02</kbd> OOPS & MULTITHREADING DYNAMICS</b></summary>
-  <br>
-  <table width="95%">
+  <summary><b><img src="https://img.icons8.com/nolan/64/00FFAA/hierarchy.png" width="24"/> <kbd>MOD-02</kbd> OOPS & MULTITHREADING DYNAMICS</b></summary>
+  <blockquote>
+  <table width="100%">
     <tr>
       <td width="50%" valign="top">
         <ul>
-          <li><b>Inheritance:</b> Single, Multi-level, Hierarchical, and Multiple inheritance routing[cite: 594, 595].</li>
-          <li><b>Polymorphism & Encapsulation:</b> Data abstraction through interfaces and method overriding[cite: 595].</li>
+          <li><b>Inheritance:</b> Single, Multi-level, and Multiple inheritance routing.</li>
+          <li><b>Polymorphism:</b> Data abstraction through interfaces & method overriding.</li>
         </ul>
       </td>
       <td width="50%" valign="top">
         <ul>
-          <li><b>Concurrency:</b> CPU threading overhead and managing the Global Interpreter Lock (GIL)[cite: 594].</li>
-          <li><b>Runtime Modding:</b> Advanced Monkey Patching for dynamic class modifications[cite: 594, 595].</li>
+          <li><b>Concurrency:</b> CPU threading overhead and the Global Interpreter Lock (GIL) bottleneck.</li>
+          <li><b>Runtime Modding:</b> Advanced Monkey Patching for dynamic class modifications.</li>
         </ul>
       </td>
     </tr>
   </table>
+  </blockquote>
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/nolan/64/FFD43B/django.png" width="24"/> <kbd>MOD-03</kbd> WEB FRAMEWORKS & SCRAPING</b></summary>
-  <br>
-  <table width="95%">
+  <summary><b><img src="https://img.icons8.com/nolan/64/00FFAA/django.png" width="24"/> <kbd>MOD-03</kbd> WEB FRAMEWORKS & SCRAPING</b></summary>
+  <blockquote>
+  <table width="100%">
     <tr>
       <td width="50%" valign="top">
         <ul>
-          <li><b>Frameworks:</b> Django MVT architectures vs. Flask micro-frameworks vs. Pyramid[cite: 596, 597].</li>
-          <li><b>Database Routing:</b> Default SQLite configurations and server-side session handling[cite: 597].</li>
+          <li><b>Frameworks:</b> Django MVT architectures vs. Flask micro-frameworks.</li>
+          <li><b>Database Routing:</b> Default SQLite configurations & server-side session handling.</li>
         </ul>
       </td>
       <td width="50%" valign="top">
         <ul>
-          <li><b>DOM Parsing:</b> BeautifulSoup HTML extraction protocols[cite: 598].</li>
-          <li><b>Network Requests:</b> Fetching live data via <code>requests</code> and querying Google Cache URLs[cite: 598].</li>
+          <li><b>DOM Parsing:</b> BeautifulSoup HTML extraction & tag targeting protocols.</li>
+          <li><b>Network Requests:</b> Fetching live data via <code>requests</code> & querying Google Cache.</li>
         </ul>
       </td>
     </tr>
   </table>
+  </blockquote>
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/nolan/64/FFD43B/bar-chart.png" width="24"/> <kbd>MOD-04</kbd> DATA ANALYSIS & ALGORITHMS</b></summary>
-  <br>
-  <table width="95%">
+  <summary><b><img src="https://img.icons8.com/nolan/64/00FFAA/bar-chart.png" width="24"/> <kbd>MOD-04</kbd> DATA ANALYSIS & ALGORITHMS</b></summary>
+  <blockquote>
+  <table width="100%">
     <tr>
       <td width="50%" valign="top">
         <ul>
-          <li><b>Data Science:</b> NumPy vectorized operations vs. SciPy numerical modules[cite: 598].</li>
-          <li><b>Array Manipulation:</b> Calculating percentiles and 3D visualization using Matplotlib/Mayavi[cite: 598].</li>
+          <li><b>Data Science:</b> NumPy vectorized operations vs. SciPy numerical modules.</li>
+          <li><b>Array Manipulation:</b> Calculating percentiles & 3D visualization limits.</li>
         </ul>
       </td>
       <td width="50%" valign="top">
         <ul>
-          <li><b>Sorting Logic:</b> Bubble sort algorithm implementation and array indexing[cite: 595].</li>
-          <li><b>Mathematical Checks:</b> Fibonacci series generation and prime number validation[cite: 595].</li>
+          <li><b>Sorting Logic:</b> Bubble sort algorithm implementations.</li>
+          <li><b>Mathematical Checks:</b> Fibonacci series generation & prime validation.</li>
         </ul>
       </td>
     </tr>
   </table>
+  </blockquote>
 </details>
 
 </div>
@@ -133,7 +137,7 @@
 
 <br>
 
-<h2 align="center">✦ 𝗧 𝗔 𝗥 𝗚 𝗘 𝗧 &nbsp; 𝗗 𝗘 𝗠 𝗢 𝗚 𝗥 𝗔 𝗣 𝗛 𝗜 𝗖 ✦</h2>
+<h2 align="center">✦ 𝗧 𝗔 𝗥 𝗚 𝗘 𝗧 &nbsp; 𝗩 𝗘 𝗖 𝗧 𝗢 𝗥 𝗦 ✦</h2>
 
 <p align="center"><i>This codex is mathematically optimized to dominate the technical rounds for the following roles:</i></p>
 
@@ -141,11 +145,11 @@
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/ROLE-Backend_Software_Engineer-0D1117?style=for-the-badge&logoColor=FFD43B" /> 
-<img src="https://img.shields.io/badge/ROLE-Data_Scientist-0D1117?style=for-the-badge&logoColor=FFD43B" /> 
-<img src="https://img.shields.io/badge/ROLE-Full_Stack_Developer-0D1117?style=for-the-badge&logoColor=FFD43B" /><br><br>
-<img src="https://img.shields.io/badge/ROLE-Machine_Learning_Engineer-0D1117?style=for-the-badge&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/ROLE-Python_Automation_Architect-0D1117?style=for-the-badge&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/ROLE-Backend_Software_Engineer-020617?style=for-the-badge&logoColor=00FFAA" /> 
+<img src="https://img.shields.io/badge/ROLE-Data_Scientist-020617?style=for-the-badge&logoColor=00FFAA" /> 
+<img src="https://img.shields.io/badge/ROLE-Full_Stack_Developer-020617?style=for-the-badge&logoColor=00FFAA" /><br><br>
+<img src="https://img.shields.io/badge/ROLE-Machine_Learning_Engineer-020617?style=for-the-badge&logoColor=00FFAA" />
+<img src="https://img.shields.io/badge/ROLE-Python_Automation_Architect-020617?style=for-the-badge&logoColor=00FFAA" />
 
 </div>
 
@@ -165,41 +169,42 @@
   <tr>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/nolan/96/FFD43B/vision.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/00FFAA/vision.png" width="60"/><br>
       <b>01. INGEST</b><br>
-      <p>Absorb the architectural theory.</p>
+      <code>Parse Architecture</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/nolan/96/FFD43B/source-code.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/00FFAA/source-code.png" width="60"/><br>
       <b>02. COMPILE</b><br>
-      <p>Identify edge cases & constraints.</p>
+      <code>Identify Constraints</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/nolan/96/FFD43B/process.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/00FFAA/process.png" width="60"/><br>
       <b>03. DEBUG</b><br>
-      <p>Dry-run the code mentally.</p>
+      <code>Dry-Run Mentally</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/nolan/96/FFD43B/approval.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/00FFAA/approval.png" width="60"/><br>
       <b>04. EXECUTE</b><br>
-      <p>Answer with absolute precision.</p>
+      <code>Output Precision</code>
     </td>
   </tr>
 </table>
 
 <br>
 
-> **💡 Tactical Edge:** *Interviewers are searching for systemic understanding, not just syntax memorization. When queried on concepts like the Global Interpreter Lock (GIL)[cite: 594] or deep vs. shallow copying[cite: 594], immediately map your answer back to real-world memory overhead and parallel processing implications. That is how you prove your seniority.*
+> **💡 Tactical Edge:** *Interviewers are searching for systemic understanding, not just syntax memorization. When queried on concepts like the Global Interpreter Lock (GIL) or deep vs. shallow copying, immediately map your answer back to real-world memory overhead and parallel processing implications. That is how you prove your seniority.*
 
 <br>
 
 ---
 
+<!-- Executive Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,100:0D1117&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:020617&height=120&section=footer" width="100%" />
   <br>
   <code>&lt; Analyze /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Optimize /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Execute /&gt;</code>
   <br><br>
